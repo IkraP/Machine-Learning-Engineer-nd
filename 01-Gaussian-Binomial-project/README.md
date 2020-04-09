@@ -1,1 +1,1 @@
-README.md for first project
+# 01 - Gaussian Binomial Projects
