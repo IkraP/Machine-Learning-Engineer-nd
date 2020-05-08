@@ -5,3 +5,6 @@ This repository contains all projects for Udacity's Machine Learning Engineer na
 ## Projects:
 
 - Project 1: Creating a Gaussian and Binomial Python Package
+
+
+On hold due to expired subscription. 
